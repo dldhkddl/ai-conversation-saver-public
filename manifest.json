@@ -1,0 +1,9 @@
+{
+  "id": "ai-conversation-saver",
+  "name": "AI Conversation Saver",
+  "version": "1.3.0",
+  "minAppVersion": "1.6.0",
+  "description": "Codex와 Claude 대화를 append-only 리비전으로 안전하게 저장합니다.",
+  "author": "이왕이",
+  "isDesktopOnly": true
+}

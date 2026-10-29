@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "rootDir": "src",
+    "outDir": "dist",
+    "noEmit": false
+  },
+  "include": ["src/codec.ts", "src/domain.ts", "src/events.ts", "src/metadata.ts", "src/note.ts", "src/recommender.ts", "src/launcher.ts", "src/pending.ts", "src/settings.ts", "src/importers/**/*.ts"]
+}
